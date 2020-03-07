@@ -1,3 +1,8 @@
+"""
+This is a sample code demonstrating using SQLALCHEMY to retrieve data. This code has been used to create with aws lambda. 
+@author : Mulla Mohammed
+"""
+
 from lambda_db import session, Science
 from utils import AlchemyEncoder
 
